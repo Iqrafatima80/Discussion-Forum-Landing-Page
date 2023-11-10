@@ -1,0 +1,10 @@
+/* Header.css */
+.header {
+    margin-top: 20px; /* Set margin from the top */
+    margin-left: 20px; /* Set margin from the left */
+  }
+  
+  .header h1 {
+    padding-left: 10px; /* Add margin to the left of the h1 element (All Questions) */
+  }
+  
